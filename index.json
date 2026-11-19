@@ -1,0 +1,33 @@
+{
+  "name": "Bangla Manga",
+  "badgeLabel": "BMA",
+  "signingKey": "db42f47f8054c8856671fea49cefc01275f6cb6ab1e16c4074d725deff296a43",
+  "contact": {
+    "website": "https://github.com/hello-hmemon/banglamanga-repo"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Bangla Manga",
+        "packageName": "eu.kanade.tachiyomi.extension.bn.banglamanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/hello-hmemon/banglamanga-repo/main/apk/tachiyomi-bn.banglamanga-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/hello-hmemon/banglamanga-repo/main/icon/ic_launcher.png",
+          "jarUrl": "https://raw.githubusercontent.com/hello-hmemon/banglamanga-repo/main/jar/tachiyomi-bn.banglamanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "2833015868140999166",
+            "name": "Bangla Manga",
+            "language": "bn",
+            "homeUrl": "https://www.banglamanga.com"
+          }
+        ]
+      }
+    ]
+  }
+}
