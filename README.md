@@ -19,6 +19,19 @@ Browse and read Bangla manga directly through the Mihon app using this extension
 6. Find **Bangla Manga** and install it.
 7. If prompted, verify and trust the repository signing key.
 
+## Suwayomi Installation
+
+1. Open the Suwayomi WebUI.
+2. Go to Browse > Extensions > Extension repositories.
+3. Add this repository index URL:
+
+   ```text
+   https://raw.githubusercontent.com/hello-hmemon/banglamanga-repo/main/index.pb
+   ```
+
+4. Save the repository and refresh the Extensions page.
+5. Find **Bangla Manga** and install it.
+
 ## Extension Information
 
 | Property | Value |
@@ -47,16 +60,3 @@ The extension source code is available in the [extensions-source fork](https://g
 This is an independent, community-maintained repository and is not officially affiliated with Mihon or BanglaManga.
 
 All manga content belongs to its respective owners and publishers. This extension provides access to content hosted by the source website.
-
-## Suwayomi Installation
-
-1. Open the Suwayomi WebUI.
-2. Go to Browse > Extensions > Extension repositories.
-3. Add this repository index URL:
-
-   ```text
-   https://raw.githubusercontent.com/hello-hmemon/banglamanga-repo/main/index.pb
-   ```
-
-4. Save the repository and refresh the Extensions page.
-5. Find **Bangla Manga** and install it.
